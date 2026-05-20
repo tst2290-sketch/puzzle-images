@@ -1,0 +1,5 @@
+[
+  {"id": "1", "name": "Autumn Forest",  "order": 1, "image_file": "1.jpg"},
+  {"id": "2", "name": "Mountain View",  "order": 2, "image_file": "2.jpg"},
+  {"id": "3", "name": "Valley Sunrise", "order": 3, "image_file": "3.jpg"}
+]
