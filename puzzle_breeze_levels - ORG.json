@@ -12,7 +12,7 @@
   {
     "id": 3,
     "group_no": 1,
-    "img_path": "categories/Vehicles/pexels-ja-kubislav-374578277-14585241.jpg"
+    "img_path": "categories/Toys/pexels-cottonbro-3661247.jpg"
   },
   {
     "id": 4,
@@ -22,7 +22,7 @@
   {
     "id": 5,
     "group_no": 1,
-    "img_path": "categories/Digital Art/dhy-nez-ai-generated-8412883.jpg"
+    "img_path": "categories/Vintage/pexels-adonyi-foto-1416845.jpg"
   },
   {
     "id": 6,
@@ -32,7 +32,7 @@
   {
     "id": 7,
     "group_no": 1,
-    "img_path": "categories/Holidays/pexels-jibarofoto-14017538.jpg"
+    "img_path": "categories/Food/pexels-airamdphoto-30208574.jpg"
   },
   {
     "id": 8,
@@ -42,27 +42,27 @@
   {
     "id": 9,
     "group_no": 1,
-    "img_path": "categories/Holidays/pexels-olia-danilevich-5976749.jpg"
+    "img_path": "categories/Children/pexels-markusspiske-978710.jpg"
   },
   {
     "id": 10,
     "group_no": 1,
-    "img_path": "categories/Digital Art/img4.jpg"
+    "img_path": "categories/Technology/pexels-hert-27926532.jpg"
   },
   {
     "id": 11,
     "group_no": 1,
-    "img_path": "categories/Lifestyle/pexels-derya-nur-2018604754-31708062.jpg"
+    "img_path": "categories/Business/pexels-mikhail-nilov-8297855.jpg"
   },
   {
     "id": 12,
     "group_no": 1,
-    "img_path": "categories/Urban/pexels-ondivade-17852826.jpg"
+    "img_path": "categories/Holidays/pexels-laura-james-6102486.jpg"
   },
   {
     "id": 13,
     "group_no": 1,
-    "img_path": "categories/Business/pexels-cup-of-couple-6177609.jpg"
+    "img_path": "categories/Lifestyle/pexels-er-shyama-charan-prasad-231393-35063611.jpg"
   },
   {
     "id": 14,
@@ -77,12 +77,12 @@
   {
     "id": 16,
     "group_no": 1,
-    "img_path": "categories/Animals/pexels-regan-dsouza-1315522347-37271399.jpg"
+    "img_path": "categories/Market/pexels-emrah-nas-782819361-34143653.jpg"
   },
   {
     "id": 17,
     "group_no": 1,
-    "img_path": "categories/Travel/pexels-aboud17-32902075"
+    "img_path": "categories/Interior/pexels-muhtelifane-70593160-36891338.jpg"
   },
   {
     "id": 18,
@@ -102,12 +102,12 @@
   {
     "id": 21,
     "group_no": 1,
-    "img_path": "categories/Animals/pexels-mnannapaneni-13931845.jpg"
+    "img_path": "categories/Toys/pexels-miami302-18403861.jpg"
   },
   {
     "id": 22,
     "group_no": 1,
-    "img_path": "categories/Toys/pexels-miami302-18403861.jpg"
+    "img_path": "categories/Animals/pexels-mnannapaneni-13931845.jpg"
   },
   {
     "id": 23,
@@ -117,12 +117,12 @@
   {
     "id": 24,
     "group_no": 1,
-    "img_path": "categories/Toys/lydia-turner-S_MsAlQH5Pw-unsplash.jpg"
+    "img_path": "categories/Vehicles/pexels-umutdagli-29167879.jpg"
   },
   {
     "id": 25,
     "group_no": 1,
-    "img_path": "categories/Vehicles/pexels-umutdagli-29167879.jpg"
+    "img_path": "categories/Art/pexels-stephen-leonardi-587681991-37183543.jpg"
   },
   {
     "id": 26,
@@ -442,7 +442,7 @@
   {
     "id": 89,
     "group_no": 4,
-	"img_path": "categories/Vintage/pexels-adonyi-foto-1416845.jpg"
+    "img_path": "categories/Digital Art/dhy-nez-ai-generated-8412883.jpg"
   },
   {
     "id": 90,
@@ -722,7 +722,7 @@
   {
     "id": 145,
     "group_no": 6,
-    "img_path": "categories/Children/pexels-markusspiske-978710.jpg"
+    "img_path": "categories/Holidays/pexels-olia-danilevich-5976749.jpg"
   },
   {
     "id": 146,
@@ -732,7 +732,7 @@
   {
     "id": 147,
     "group_no": 6,
-    "img_path": "categories/Market/pexels-emrah-nas-782819361-34143653.jpg"
+    "img_path": "categories/Animals/pexels-regan-dsouza-1315522347-37271399.jpg"
   },
   {
     "id": 148,
@@ -917,7 +917,7 @@
   {
     "id": 184,
     "group_no": 8,
-    "img_path": "categories/Technology/pexels-hert-27926532.jpg"
+    "img_path": "categories/Digital Art/img4.jpg"
   },
   {
     "id": 185,
@@ -1447,7 +1447,7 @@
   {
     "id": 290,
     "group_no": 12,
-    "img_path": "categories/Interior/pexels-muhtelifane-70593160-36891338.jpg"
+    "img_path": "categories/Travel/pexels-aboud17-32902075.jpg"
   },
   {
     "id": 291,
@@ -1797,7 +1797,7 @@
   {
     "id": 360,
     "group_no": 15,
-    "img_path": "categories/Holidays/pexels-laura-james-6102486.jpg"
+    "img_path": "categories/Urban/pexels-ondivade-17852826.jpg"
   },
   {
     "id": 361,
@@ -1877,7 +1877,7 @@
   {
     "id": 376,
     "group_no": 16,
-    "img_path": "categories/Art/pexels-stephen-leonardi-587681991-37183543.jpg"
+    "img_path": "categories/Toys/lydia-turner-S_MsAlQH5Pw-unsplash.jpg"
   },
   {
     "id": 377,
@@ -2067,7 +2067,7 @@
   {
     "id": 414,
     "group_no": 17,
-    "img_path": "categories/Business/pexels-mikhail-nilov-8297855.jpg"
+    "img_path": "categories/Lifestyle/pexels-derya-nur-2018604754-31708062.jpg"
   },
   {
     "id": 415,
@@ -2187,12 +2187,12 @@
   {
     "id": 438,
     "group_no": 18,
-    "img_path": "categories/Lifestyle/pexels-er-shyama-charan-prasad-231393-35063611.jpg"
+    "img_path": "categories/Business/pexels-cup-of-couple-6177609.jpg"
   },
   {
     "id": 439,
     "group_no": 18,
-    "img_path": "categories/Food/pexels-airamdphoto-30208574.jpg"
+    "img_path": "categories/Holidays/pexels-jibarofoto-14017538.jpg"
   },
   {
     "id": 440,
@@ -2242,7 +2242,7 @@
   {
     "id": 449,
     "group_no": 18,
-    "img_path": "categories/Toys/pexels-cottonbro-3661247.jpg"
+    "img_path": "categories/Vehicles/pexels-ja-kubislav-374578277-14585241.jpg"
   },
   {
     "id": 450,
